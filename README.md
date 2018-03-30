@@ -1,2 +1,2 @@
 # the-game
-# Il va falloir qu'on s'organise ça comme du monde
+# Il y a un début à tout
